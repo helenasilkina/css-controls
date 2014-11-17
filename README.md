@@ -1,2 +1,1 @@
-css-controls
-============
+Controls are developed from only css and html.
